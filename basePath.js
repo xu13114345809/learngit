@@ -107,4 +107,4 @@ _hmt.push(['_setAutoPageview', false]);//关闭自动PV跟踪，规则化每一�
 
 console.log('第二个版本')
 console.log('123')
-console.log('xxxxx')
+console.log('哈哈哈哈哈哈哈')
